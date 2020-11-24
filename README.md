@@ -15,7 +15,7 @@
 [![Behance](https://img.shields.io/badge/behance-090909?style=for-the-badge&logo=behance)](https://www.behance.net/ilya_frontman)
 [![Dribbble](https://img.shields.io/badge/dribbble-090909?style=for-the-badge&logo=dribbble)](https://dribbble.com/ilya_frontman)
 
-## Проекты
+# Проекты
 
 ### inHouse - Форма заявки
 
@@ -25,4 +25,4 @@
 > Клиент приходит за окнами и хочет оформить заявку,
 > но вот проблема что удобно компании, не удобно пользователю
 
-[Посмотреть](https://ilya-frontman.github.io/inHouse/)
+[![Демонстрация](https://img.shields.io/badge/Демонстрация-success?style=for-the-badge&logo=Демонстрация)](https://ilya-frontman.github.io/inHouse/)
