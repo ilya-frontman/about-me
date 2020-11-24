@@ -1,4 +1,4 @@
-![CoverImage]()
+![CoverImage](https://github.com/ilya-frontman/ilya-frontman/blob/main/img/Cover.jpg)
 
 # Дизайнер, который верстает :smile:
 
