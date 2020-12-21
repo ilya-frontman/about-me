@@ -8,6 +8,8 @@
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![Gulp](https://img.shields.io/badge/Gulp-090909?style=for-the-badge&logo=gulp)
+![NPM](https://img.shields.io/badge/NPM-090909?style=for-the-badge&logo=npm)
 
 ### Социалки
 
@@ -26,3 +28,13 @@
 > но вот проблема что удобно компании, не удобно пользователю
 
 [![Демонстрация](https://img.shields.io/badge/Демонстрация-success?style=for-the-badge&logo=Демонстрация)](https://ilya-frontman.github.io/inHouse/)
+
+
+### Productly - Лэндинг
+
+#### Digital agency (PP)
+
+> В работе использовался Gulp + SCSS + NPM.
+> Modal video (Plyr), Mobile menu, Input form.
+
+[![Демонстрация](https://img.shields.io/badge/Демонстрация-success?style=for-the-badge&logo=Демонстрация)](https://ilya-frontman.github.io/productly/)
