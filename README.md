@@ -10,7 +10,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![Gulp](https://img.shields.io/badge/Gulp-090909?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=webpack)
-![NPM](https://img.shields.io/badge/NPM-090909?style=for-the-badge&logo=npm)
 
 ### Социалки
 
