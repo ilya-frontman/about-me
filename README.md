@@ -35,7 +35,17 @@
 
 #### Digital agency (PP)
 
-> В работе использовался Gulp + SCSS + NPM.
+> В работе использовался Gulp + SCSS.
 > Modal video (Plyr), Mobile menu, Input form.
 
 [![Демонстрация](https://img.shields.io/badge/Демонстрация-success?style=for-the-badge&logo=Демонстрация)](https://ilya-frontman.github.io/productly/)
+
+
+### Oculus - Concept Animate
+
+#### Oculus Rift (PP)
+
+> В работе использовался Gulp + SCSS.
+> Animation in jQuery.
+
+[![Демонстрация](https://img.shields.io/badge/Демонстрация-success?style=for-the-badge&logo=Демонстрация)](https://ilya-frontman.github.io/oculus/)
